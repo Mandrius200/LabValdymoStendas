@@ -1,0 +1,12 @@
+Itampa O1, V	Srove O1, mA	Itampa O2, V	Srove O2, mA	Itampa O3, V	Srove O3, mA	Itampa O4, V	Srove O4, mA	Itampa O5, V	Srove O5, mA	Itampa O6, V	Srove O6, mA
+0.00019 	 0.00000
+0.00020 	 0.00000
+0.00018 	 0.00000
+0.00019 	 0.00000
+0.00019 	 0.00000
+0.00020 	 0.00000
+0.00019 	 0.00000
+0.00021 	 0.00000
+0.00018 	 0.00000
+0.00019 	 0.00000
+0.00020 	 0.00000
